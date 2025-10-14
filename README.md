@@ -21,6 +21,7 @@ Walmart-Sales-Analysis/
 ## Requirements
 - Python 3.8+, Pandas, NumPy, Matplotlib, Seaborn
 - SQL: MySQL or PostgreSQL
+- Excel: Visualizations
 - Kaggle API (for dataset download)
 
 ## Usage
